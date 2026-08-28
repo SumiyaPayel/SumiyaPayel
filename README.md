@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sumaiya Payel 👋
 
-<!--
-**SumiyaPayel/SumiyaPayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring Software Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student passionate about technology, design, and building useful digital experiences. I'm currently learning software development, web development, and UI/UX design through hands-on practice and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- HTML & CSS
+- JavaScript
+- Web Development
+- UI/UX Design
+- Git & GitHub
+
+### 🎯 My Goal
+
+To continuously improve my technical and creative skills, build meaningful projects, and grow into a successful software professional.
+
+### 🚀 What I'm Working On
+
+I'm currently building my foundation in software development and UI/UX, and I'll be adding my projects here as I learn and grow.
+
+### 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
+
+---
+
+⭐ Thanks for visiting my profile!
+
